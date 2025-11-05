@@ -1,0 +1,12 @@
+__pycache__/
+.vscode/
+tmp/
+
+data/
+*.nc
+*.parquet
+*.csv
+
+*.sh
+*.log
+*.env
